@@ -1,0 +1,28 @@
+.card {
+    border: 1px solid rgb(197, 197, 197);
+    background-color: rgb(230, 230, 230);
+    border-radius: 8px;
+    box-sizing: border-box;
+    padding: 12px;
+    gap: 20px;
+}
+
+.image {
+    border-radius: 8px;
+}
+
+.link {
+    gap: 20px;
+    border-bottom: 1px solid rgb(253, 253, 253);
+    text-decoration: none;
+    color: black;
+}
+
+.link:hover {
+    opacity: 0.7;
+}
+
+.linkImage {
+    width: 18px;
+    height: 18px;
+}
